@@ -1,0 +1,16 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Factory Animals", "Abstract_Factory_Animals\Abstract_Factory_Animals.csproj", "{3F1FA241-8A01-4FBD-A9AE-8A00BEBE1971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F1FA241-8A01-4FBD-A9AE-8A00BEBE1971}.Debug|Any CPU.ActiveCfg = Debug|AnyCPU
+		{3F1FA241-8A01-4FBD-A9AE-8A00BEBE1971}.Debug|Any CPU.Build.0 = Debug|AnyCPU
+	EndGlobalSection
+EndGlobal

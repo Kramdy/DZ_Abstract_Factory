@@ -1,0 +1,6 @@
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\bin\Debug\AbstractFactoryAnimals.exe
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\bin\Debug\AbstractFactoryAnimals.pdb
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\obj\Debug\Abstract_Factory_Animals.csproj.AssemblyReference.cache
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\obj\Debug\Abstract_Factory_Animals.csproj.CoreCompileInputs.cache
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\obj\Debug\AbstractFactoryAnimals.exe
+D:\С#\DZ_Abstract_Factory\Abstract_Factory_Animals\obj\Debug\AbstractFactoryAnimals.pdb
